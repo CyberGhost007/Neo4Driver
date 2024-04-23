@@ -7,7 +7,7 @@ repository: https://github.com/ClementG63/Neo4Dart
 environment:
   sdk: ">=2.16.2 <3.0.0"
 dependencies:
-  http: ^0.13.5
+  http: ^1.1.0
   http_interceptor: ^1.0.2
 dev_dependencies:
   flutter_lints: 2.0.1
